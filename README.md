@@ -1,3 +1,4 @@
+Instruction to run the code:
 1. Ensure you have Python installed on your system.
 2. Install the required libraries by running:
 pip install numpy torch torchvision scikit-learn imbalanced-learn matplotlib
